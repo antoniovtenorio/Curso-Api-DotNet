@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <member name="M:curso.api.Controllers.UsuarioController.logar(curso.api.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Permite Autenticar o usuario no sistema
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns>retorna status ok, dadis di usuario e token de acesso.</returns>
+            
+        </member>
+    </members>
+</doc>
